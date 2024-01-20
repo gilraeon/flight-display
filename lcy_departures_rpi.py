@@ -1,5 +1,5 @@
 import sys
-sys.path.append('~/python-spotled')
+sys.path.append('/root/python-spotled')
 
 import os
 import time
